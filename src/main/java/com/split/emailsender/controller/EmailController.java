@@ -1,6 +1,6 @@
 package com.split.emailsender.controller;
 
-import com.split.emailsender.Entity.EmailMessage;
+import com.split.emailsender.entity.EmailMessage;
 import com.split.emailsender.sevice.EmailSenderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

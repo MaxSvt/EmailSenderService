@@ -1,4 +1,4 @@
-package com.split.emailsender.Entity;
+package com.split.emailsender.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
